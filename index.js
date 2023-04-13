@@ -10,10 +10,13 @@ import {AppRegistry} from 'react-native';
 // import Input from './Components/Input/Input';
 // import Button from './Components/Button/Button';
 
-import TouchableOpacity from './Components/TouchableOpacity/TouchableOpacity';
+// import TouchableOpacity from './Components/TouchableOpacity/TouchableOpacity';
 
+
+import ScrollView from "./Components/ScrollView/App";
+import ScrollView2 from "./Components/ScrollView/App2";
 
 
 import {name as appName} from './app.json';
 
-AppRegistry.registerComponent(appName, () => TouchableOpacity);
+AppRegistry.registerComponent(appName, () => ScrollView2);
