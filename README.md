@@ -31,12 +31,11 @@ cd path_to_directory
 
 After moving to specific directory, you can create or initialize your react native project using following command.
 
-Move to directory 
 ```bash
-npx react-nativeinit ProjectName
+npx react-native init ProjectName
 ```
 
-It will take some time, and suscesfull installation you can run your react native application using follwowing command. OPen project in Visual Studio code and run new terminal on it and then execute the below commands.
+It will take some time, and suscesfull installation you can run your react native application using follwowing command. Open project in Visual Studio code and run new terminal on it and then execute the below commands.
 
 To run on android
 ```bash
