@@ -17,11 +17,14 @@ import {AppRegistry} from 'react-native';
 // import ScrollView2 from "./Components/ScrollView/App2";
 
 
-import Flatlist from "./Components/Flatlist/App";
-import Flatlist2 from "./Components/Flatlist/App2";
+// import Flatlist from "./Components/Flatlist/App";
+// import Flatlist2 from "./Components/Flatlist/App2";
+
+
+import App from "./Components/Navigation/App"
 
 
 
 import {name as appName} from './app.json';
 
-AppRegistry.registerComponent(appName, () => Flatlist2);
+AppRegistry.registerComponent(appName, () => App);
