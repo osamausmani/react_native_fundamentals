@@ -21,7 +21,7 @@ import {AppRegistry} from 'react-native';
 // import Flatlist2 from "./Components/Flatlist/App2";
 
 
-import App from "./Components/Navigation/App"
+import App from "./Components/useState/App"
 
 
 
